@@ -136,10 +136,10 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://127.0.0.1:3000',
     'https://mi-escuela-web.vercel.app',
-    'http://gidget-subanconeal-tina.ngrok-free.dev',
-    'https://gidget-subanconeal-tina.ngrok-free.dev',
+    'https://web-production-04b0.up.railway.app',
 ]
 CORS_ALLOW_CREDENTIALS = True
+
 CORS_ALLOW_HEADERS = [
     'accept',
     'accept-encoding',
