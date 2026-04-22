@@ -1,0 +1,1 @@
+web: gunicorn campus_virtual.wsgi:application --workers 2 --threads 4
